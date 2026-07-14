@@ -8,7 +8,7 @@ The project demonstrates secure origin access, HTTPS delivery, edge caching, cus
 
 [Open the deployed website](https://d3u56ueif7xbjv.cloudfront.net)
 
-Replace the URL above with your real CloudFront distribution URL.
+
 
 ## Architecture
 
