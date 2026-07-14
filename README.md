@@ -7,7 +7,8 @@ The project demonstrates secure origin access, HTTPS delivery, edge caching, cus
 ## Live Website
 
 [Open the deployed website](https://d3u56ueif7xbjv.cloudfront.net)
-//The website is currently not live
+
+/The website is currently not live
 
 
 ## Architecture
