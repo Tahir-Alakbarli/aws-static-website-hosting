@@ -92,7 +92,7 @@ S3 Block Public Access remained enabled.
 
 I created a CloudFront distribution and selected the S3 bucket as the origin.
 
-The distribution was configured with:
+The distribution was configured with; a.k.a recommended settings:
 
 - Origin Access Control
 - Signed requests using AWS Signature Version 4
