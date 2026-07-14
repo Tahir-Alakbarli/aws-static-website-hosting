@@ -139,19 +139,15 @@ I verified:
 
 ### Private S3 Policy
 
-![S3 Block Public Access configuration](screenshots/03-s3-permissions.png)
+![S3 configuration](screenshots/BucketPolicy.png)
 
 ### CloudFront distribution
 
-![CloudFront distribution deployed](screenshots/04-cloudfront-deployed.png)
+![CloudFront distribution deployed](screenshots/CloudFrontandS3.png)
 
-### CloudFront origin and OAC
+### CloudFront Error
 
-![CloudFront S3 origin with Origin Access Control](screenshots/05-cloudfront-origin-oac.png)
-
-### CloudFront cache behaviour
-
-![CloudFront HTTPS and cache behaviour](screenshots/06-cloudfront-behavior.png)
+![CloudFront Custom Error Handling](screenshots/CustomError.png)
 
 ## Custom Domain Status
 
