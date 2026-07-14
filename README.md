@@ -195,4 +195,4 @@ This project helped me practise:
 
 ## Side Note
 
-- The website is currently not live. Everything was done using AWS Free Tier. To save costs CloudFront and S3 have been deleted. The screenshots are the proof of the website.
+- The website is currently not live. Everything was done using AWS Free Tier. To save costs CloudFront and S3 have been deleted. The screenshots are the proof of the website and my project.
