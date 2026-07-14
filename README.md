@@ -193,3 +193,7 @@ This project helped me practise:
 - Define the infrastructure using Terraform or CloudFormation
 - Enable CloudFront access logging
 - Add cache-control headers to static assets
+
+##Side Note
+
+- The website is currently not live. Everything was done using AWS Free Tier. To save costs CloudFront and S3 have been deleted. The screenshots are the proof of the website.
