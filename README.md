@@ -1,4 +1,4 @@
-# Secure Static Website on AW
+# Secure Static Website on AWS
 
 A static portfolio website hosted in a private Amazon S3 bucket and delivered globally through Amazon CloudFront.
 
